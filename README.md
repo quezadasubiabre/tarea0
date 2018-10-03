@@ -14,7 +14,7 @@ If you want you can put some code:
 
 Or show images:
 
-<img src="doc/tfExecution.png" width="800" height="400" />
+<img src="doc/tfExecution.png" width="900" height="450" />
 
 But remember you should **avoid** putting images in your repo, because they are too heavy, limit your self to have them only for your README.md
 
